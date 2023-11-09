@@ -1,0 +1,77 @@
+.Card {
+
+margin: 100px 0 0 0 ;
+position: fixed;
+
+}
+
+.Card h4 {
+    color: #1C2B35;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 28px 50px;
+}
+
+.Card h4 h6{
+color: #2A414F;
+font-family: Lato;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 0.085px;
+margin: 25px 0;
+}
+.Card p{
+    color: #0E161A;
+font-family: Lato;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 0.032px;
+} 
+.clear{
+    width: 132px;
+height: 28px;
+border-radius: 4px;
+background: #FF3030;
+color: #FFF;
+font-family: Lato;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: norml;
+letter-spacing: 0a.085px;
+margin: 57px 0px 19px;
+border: 2px solid #FF3030;
+transition: all 0.3s linear;
+
+}
+.clear:hover {
+    background: #ff303051;
+    color: #1C2B35;
+}
+.review{
+    width: 132px;
+    height: 28px;
+    border-radius: 4px;
+    background: #f90;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: norml;
+    letter-spacing: 0a.085px;
+   
+    border: 2px solid #f90;
+    transition: all 0.3s linear;
+}
+.review:hover{
+    background-color: rgba(255, 153, 0, 0.286);
+    color: #1C2B35;
+}

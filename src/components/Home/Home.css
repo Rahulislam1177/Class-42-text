@@ -1,0 +1,72 @@
+.home {
+    display: flex;
+    justify-content: space-between;
+    padding: 160px 110px;
+    align-items: center;
+}
+
+/* .home-laft {} */
+
+.home-laft h5 {
+    color: #F90;
+font-family: Lato;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 0.026px;
+}
+
+.home-laft h1 {
+    color: #1C2B35;
+font-family: Lato;
+font-size: 60px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: -0.9px;
+}
+
+.home-laft p {
+color: #2A414F;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 0.06px;
+}
+
+.home-laft button {
+color: #0E161A;
+margin-top: 78px;
+padding: 15px 26px;
+border: 1px solid #F90;
+border-radius: 4px;
+background: #F90;
+width: 203px;
+height: 56px;
+height: auto;
+font-family: Lato;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+transition: all 0.5s inherit;
+}
+.home-laft button:hover {
+    background-color: rgba(255, 153, 0, 0.384);
+    
+}
+
+.home-right {
+    border-radius: 8px;
+background: #FFE0B3;
+}
+
+.home-right img{
+    width: 451px;
+height: 633px;
+padding: 0 0px 12px 15px;
+
+}
